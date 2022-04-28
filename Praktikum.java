@@ -1,1 +1,1 @@
-public static void Main{}
+Class Main{}
